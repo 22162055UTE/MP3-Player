@@ -1,0 +1,5 @@
+*.o
+mp3_player
+.vscode/
+*~
+.DS_Store
